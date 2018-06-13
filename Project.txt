@@ -1,0 +1,3 @@
+Project name
+Team name
+Number of people in the team
