@@ -1,4 +1,4 @@
 Project name ticket booking
-Project name gaming app
 Team name
+no of people in the team - 5
 
