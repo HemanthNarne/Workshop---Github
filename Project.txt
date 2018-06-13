@@ -3,7 +3,7 @@ Project name gaming app
 Team name
 Number of people in the team
 Team name 
-Number of people in the team - four
+Number of people in the team - six
 university - nwmsu state university
 Major MS - ACS
 Department- CSIS
