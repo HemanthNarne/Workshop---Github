@@ -1,4 +1,4 @@
-Project name ticket booking
-Team name - concours
-number of people in the team
+Project name 
+Team name 
+Number of people in the team
 
