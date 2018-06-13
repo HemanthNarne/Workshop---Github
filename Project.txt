@@ -4,4 +4,4 @@ Team name
 Number of people in the team
 Team name 
 Number of people in the team - five
-university - nwmsu university
+university - nwmsu state university
