@@ -2,4 +2,4 @@ Project name ticket booking
 Project name gaming app
 Team name
 Number of people in the team
-university
+university - nwmsu
