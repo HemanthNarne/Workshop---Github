@@ -1,4 +1,4 @@
-# Workshop---Github
+# Workshop-Github
 Project name 
 Team name
 First application name
