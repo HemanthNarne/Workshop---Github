@@ -3,5 +3,5 @@ Project name gaming app
 Team name
 Number of people in the team
 Team name 
-Number of people in the team - five
+Number of people in the team - six
 university - nwmsu university
